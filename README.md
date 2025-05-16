@@ -9,6 +9,8 @@ MedRecordChain is a decentralized platform for managing patient medical records 
 - **Permission-Based Access**: Only doctors granted explicit permission by a patient can access or add to that patient's medical records.
 - **Appointment Booking System**: Patients can book appointments, and doctors have the option to approve or decline each request.
 - **Transparent Record of Access**: Patients have a transparent view of who has access to their data and can revoke access as needed.
+- **Ai Based Doctor Matching**: Patients will add their conditions and doctors will showup accordingly
+- **DeFi Integration**: DeFi integration
 
 ## 🛠 Tech Stack
 
